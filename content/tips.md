@@ -1,12 +1,8 @@
 ---
 title: Tips
-description: Getting more from DomainCord
-slug: tips
 ---
 DomainCord is an established chat community that’s been around since August 2018, and has some etiquette guidelines that have emerged. These aren’t hard and fast rules, you won’t get banned or kicked for not following them, but keeping them in mind will help you get the most out of our chatroom community.
-
 <!-- end -->
-
 **EVERY MEMBER OF DOMAINCORD IS A PERSON**
 
 This is a chatroom for hobbyist and professional domainers alike. The admins, moderators, and everyone else in DomainCord are donating their spare time; nobody’s being paid, their suggestions may not be correct, and they may not know the answer. Treat them like somebody you don’t know who’s standing next to you offering help or suggestions.
